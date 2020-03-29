@@ -39,11 +39,11 @@ Já o apoiador terá acesso a uma lista de casos detalhados e o meio para entrar
 ## ✅ Tópicos de Aprendizado
 
 <ul>
-  <li>O banco de dados utilizado foi o SQLite - Pra se conectar e realizar as operações foi utilizado a biblioteca Knex;</li>
+  <li>O banco de dados utilizado foi o SQLite - Pra se conectar e realizar as operações foi utilizado o Knex;</li>
   <li>Para as validaçoes no backend foi utilizado a biblioteca Celebrate, que implementa a comunicação do JOI com o express;</li>
   <li>Para a funcionalidade de enviar email passando parâmetros a partir da aplicação foi utilizado o MailComposer do Expo;</li>
   <li>Conceito de deeplink, que possibilita acessar um app do smartphone e passar parâmetros no processo;</li>
-  <li>Conceitos de TDD e aplicação de testes integrados com a biblioteca Jest.</li>
+  <li>Conceitos de TDD e aplicação de testes integrados com o framework Jest.</li>
 </ul>
 
 ## :memo: License
